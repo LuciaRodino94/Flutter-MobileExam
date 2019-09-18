@@ -15,7 +15,7 @@ This application has been developed for the exam "Mobile Application and Cloud C
 + **Firestore Database**
 + **Flutter**
 
-## Android Application
+## Flutter Application
 
 The application displays a Google Map and allow the user to add customized markers to save his favourite places, so that it will be easy to reach those locations again without memorizing the address.
 
