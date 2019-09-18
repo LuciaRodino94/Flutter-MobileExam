@@ -2,7 +2,7 @@
  
 ### Abstract 
 
-Save&Go is a Mobile Application that uses Google Maps SDK and permit to track user position and collects data about his favourite positions.
+Save&Go is a Mobile Application that uses Google Maps SDK, permits to track user positions and collects data about his favourite positions.
 
 This application has been developed for the exam "Mobile Application and Cloud Computing" 
 
