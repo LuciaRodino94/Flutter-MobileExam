@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "945315530746",
+        "firebase_url": "https://exam-app-30855.firebaseio.com",
+        "project_id": "exam-app-30855",
+        "storage_bucket": "exam-app-30855.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:945315530746:android:39731933cb379b3ebd0643",
+            "android_client_info": {
+                "package_name": "com.example.exam_app2"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "945315530746-g6lt09nvde0jgqfct8kqqp6icth6clh5.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyAuPYfdeOXTC5Wg4ReyujKLV1k359q9Er8"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "945315530746-g6lt09nvde0jgqfct8kqqp6icth6clh5.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "945315530746-gv5kuvvsg2d7emup2ve040rmfghdrqbi.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "com.example.examApp2"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

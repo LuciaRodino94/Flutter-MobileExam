@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>945315530746-gv5kuvvsg2d7emup2ve040rmfghdrqbi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.945315530746-gv5kuvvsg2d7emup2ve040rmfghdrqbi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD62-SSL9CunmPYmZ5Ep3XsfZqWXjEx2TY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>945315530746</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.examApp2</string>
+	<key>PROJECT_ID</key>
+	<string>exam-app-30855</string>
+	<key>STORAGE_BUCKET</key>
+	<string>exam-app-30855.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:945315530746:ios:5c1dc67034fef63abd0643</string>
+	<key>DATABASE_URL</key>
+	<string>https://exam-app-30855.firebaseio.com</string>
+</dict>
+</plist>
